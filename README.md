@@ -1,9 +1,9 @@
-<p># VIP Customer</p>
+<p># <a href="https://fanyarai.com/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%aa%d8%b4%d8%ae%db%8c%d8%b5-%da%86%d9%87%d8%b1%d9%87-vip-customer/">VIP Customer</a></p>
 
 <p>face detection and face recognition for CRM approaches</p>
 
 <p dir="rtl"><br />
-نرم افزار تخصصی تشخیص چهره با رویکرد مدیریت ارتاباط با مشتری</p>
+<a href="https://fanyarai.com/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%aa%d8%b4%d8%ae%db%8c%d8%b5-%da%86%d9%87%d8%b1%d9%87-vip-customer/">نرم افزار تخصصی تشخیص چهره</a> با رویکرد مدیریت ارتاباط با مشتری</p>
 
 <h2><a href="https://fanyarai.com/">https://fanyarai.com/</a></h2>
 
